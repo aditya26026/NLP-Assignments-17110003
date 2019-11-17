@@ -12,7 +12,7 @@ The precision from this model comes out to be  0.5781007611923769
 The recall from this model comes out to be  0.46388443036791216.
 
 The other model used by me is char CNN. It has 3 convolution layers with back to back 2 max pooling layers. At the end it has a fully connected layer with adam being used as an optimizer to train this setup.
-
+ 
 The accuracy from this model comes out to be 0.5013376137131098.
 The f1 score from this model comes out to be 0.5010328342278033.
 The precision from this model comes out to be 0.5023818146168325.
